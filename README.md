@@ -1,0 +1,1 @@
+# vue_router_issue_navigation
